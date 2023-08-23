@@ -1,6 +1,6 @@
-# My Portfolio
+# My Course Projects
 
-Welcome to my portfolio repository! Here, you'll find a collection of various projects I've completed as a freelancer and student. Each project showcases my skills and expertise in different areas of development. 
+Welcome to my Course Projects repository! Here, you'll find a collection of various projects I've completed as a freelancer and student. Each project showcases my skills and expertise in different areas of development. 
 
 ## Projects
 
